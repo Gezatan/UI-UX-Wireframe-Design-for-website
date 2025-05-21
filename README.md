@@ -26,7 +26,7 @@ This wireframe is meant for:
 - **Contact Section** with inquiry form and social links  
 - **Clean and minimal layout** prioritizing user experience  
 
-## 👤 Author
+## Author
 
 **Gezatan Nimal Raj** – Aspiring Product and marketing enthusiast  
 
